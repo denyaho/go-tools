@@ -1,0 +1,10 @@
+# -- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- Environment Variables ---
+.env
+.env.local
+*.pem
+*.key
