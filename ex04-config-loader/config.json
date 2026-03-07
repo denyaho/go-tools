@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "timeout_ms": 5000,
+  "log_level": "info",
+  "db_enabled": true
+}
